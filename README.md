@@ -14,4 +14,4 @@ Since I used an old version of MATLAB so I wrote down some functions to do plot 
 - **ScatteredPlot.m** -- this function shows the scatterplot of observed-predicted PM 2.5 concentration in training and test dataset. 
 - **EvalFunction.m** -- I wrote this function for checking only. This function computes the mean-squared-error (MSE) and root-mean-squared-error (RMSE) from model.
 
-**All feedback is always welcome!*
+*Feedback is always welcome!*
